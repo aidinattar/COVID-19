@@ -75,7 +75,10 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── metriche
+├── grafici/
+|   ├── grafici.ipynb
+|   ├── Popolazione_Regioni.csv
+├── metriche/
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.json
 │   ├── dpc-covid19-ita-metriche-dashboard-mobile.csv
