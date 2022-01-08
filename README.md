@@ -91,6 +91,8 @@ COVID-19/
 │   │   ├── dpc-covid19-ita-scheda-province-*.pdf
 │   ├── regioni
 │   │   ├── dpc-covid19-ita-scheda-regioni-*.pdf
+├── ISS/
+│   ├── covid_19-iss.xlsx
 ```
 
 ## Aggiornamento e flusso dei dati
