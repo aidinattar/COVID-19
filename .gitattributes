@@ -5,3 +5,4 @@
 *.xml text eol=crlf
 *.xmp text eol=crlf
 LICENSE text eol=crlf
+*.ipynb linguist-language=Python
